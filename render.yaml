@@ -1,0 +1,6 @@
+services:
+  - type: web
+    runtime: static
+    name: nikunj-portfolio
+    buildCommand: echo "Static portfolio ready"
+    staticPublishPath: dist
