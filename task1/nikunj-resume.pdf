@@ -1,0 +1,75 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 2525 >>
+stream
+0.125 0.227 0.196 rg
+BT /F2 30 Tf 1 0 0 1 48 784 Tm (NIKUNJ) Tj ET
+BT /F1 12 Tf 1 0 0 1 48 757 Tm (B.Tech CDS Student | Software Portfolio) Tj ET
+0.32 0.40 0.37 rg
+BT /F1 10 Tf 1 0 0 1 48 732 Tm (nikunjdara28@gmail.com | 9306670944) Tj ET
+BT /F1 10 Tf 1 0 0 1 48 715 Tm (GitHub: github.com/nik07-droid) Tj ET
+BT /F1 10 Tf 1 0 0 1 48 698 Tm (LinkedIn: linkedin.com/in/nikunj-29b6741ab) Tj ET
+0.83 0.87 0.82 RG 48 683 m 547 683 l S
+0.125 0.227 0.196 rg
+BT /F2 12 Tf 1 0 0 1 48 660 Tm (PROFILE) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 638 Tm (B.Tech CDS student at MUIT, Noida, building software with Java,) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 622 Tm (Python, and MySQL. Projects span patient case taking and browser agents.) Tj ET
+BT /F2 12 Tf 1 0 0 1 48 588 Tm (SKILLS) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 566 Tm (Java - Application development) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 550 Tm (Python - Scripting and software) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 534 Tm (MySQL - Relational data) Tj ET
+BT /F2 12 Tf 1 0 0 1 48 500 Tm (SELECTED PROJECTS) Tj ET
+BT /F2 11 Tf 1 0 0 1 48 478 Tm (HELIOS | Patient case taking) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 462 Tm (Digital workflow for capturing patient cases for clinician review.) Tj ET
+BT /F1 10 Tf 1 0 0 1 48 446 Tm (Repository: github.com/nik07-droid/HELIIOS) Tj ET
+BT /F2 11 Tf 1 0 0 1 48 420 Tm (Captain | Browser agent) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 404 Tm (Explores browser interaction, web automation, and checking action results.) Tj ET
+BT /F1 10 Tf 1 0 0 1 48 388 Tm (Repository: github.com/nik07-droid/captain-browser-agent) Tj ET
+BT /F2 12 Tf 1 0 0 1 48 354 Tm (EDUCATION) Tj ET
+BT /F2 11 Tf 1 0 0 1 48 332 Tm (B.Tech CDS | 2024-2028 \(in progress\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 48 316 Tm (Maharishi University of Information Technology \(MUIT\), Noida) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 300 Tm (CGPA: 8.5 / 10) Tj ET
+BT /F2 11 Tf 1 0 0 1 48 274 Tm (Class XII - CBSE | 2023 | Aggregate: 86.6%) Tj ET
+BT /F1 10 Tf 1 0 0 1 48 258 Tm (Guru Harkrishan Public School \(GHPS\), Kalkaji) Tj ET
+BT /F2 11 Tf 1 0 0 1 48 232 Tm (Class X - CBSE | 2021 | Aggregate: 91.6%) Tj ET
+BT /F1 10 Tf 1 0 0 1 48 216 Tm (Guru Harkrishan Public School \(GHPS\), Kalkaji) Tj ET
+BT /F2 12 Tf 1 0 0 1 48 182 Tm (ACHIEVEMENT) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 160 Tm (Smart India Hackathon \(SIH\) 2026 finalist) Tj ET
+BT /F2 12 Tf 1 0 0 1 48 126 Tm (INTERESTS) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 104 Tm (Artificial Intelligence, Data Science, Software Development,) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 88 Tm (Web Automation, Hackathons & Builds) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Title (Nikunj - Resume) /Author (Nikunj) >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+0000002972 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R /Info 7 0 R >>
+startxref
+3035
+%%EOF
