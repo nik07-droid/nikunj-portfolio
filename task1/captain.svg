@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="260" viewBox="0 0 420 260">
+<rect width="420" height="260" fill="#d9e3e8"/><rect x="30" y="28" width="360" height="204" rx="10" fill="#f7fafb"/>
+<path d="M30 38q0-10 10-10h340q10 0 10 10v20H30" fill="#355567"/><circle cx="46" cy="43" r="3" fill="#d9e3e8"/><circle cx="58" cy="43" r="3" fill="#d9e3e8"/>
+<text x="54" y="86" fill="#203a32" font-family="Arial,sans-serif" font-size="18" font-weight="bold">Captain</text><text x="54" y="107" fill="#53655e" font-family="Arial,sans-serif" font-size="10">BROWSER AGENT</text>
+<rect x="54" y="128" width="89" height="53" rx="6" fill="#d9e3e8"/><rect x="165" y="128" width="89" height="53" rx="6" fill="#355567"/><rect x="276" y="128" width="89" height="53" rx="6" fill="#d9e3e8"/>
+<text x="68" y="158" fill="#203a32" font-family="Arial,sans-serif" font-size="12">Observe</text><text x="199" y="158" fill="white" font-family="Arial,sans-serif" font-size="12">Act</text><text x="299" y="158" fill="#203a32" font-family="Arial,sans-serif" font-size="12">Verify</text>
+<path d="M145 154h17m-5-5 5 5-5 5M256 154h17m-5-5 5 5-5 5M320 185v11H98v-11" stroke="#355567" stroke-width="2" fill="none"/>
+<text x="54" y="217" fill="#53655e" font-family="Arial,sans-serif" font-size="9">CONCEPT ILLUSTRATION</text></svg>
